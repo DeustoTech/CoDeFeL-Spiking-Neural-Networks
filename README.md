@@ -40,7 +40,6 @@ or overlapping inputs.
 | File | Purpose |
 | --- | --- |
 | `SNN.ipynb` | Complete implementation: LIF cells, surrogate-gradient training, `make_moons` data generation, and test evaluation. |
-| `SNN_circuit.png` | Diagram of the SNN architecture used in the paper and this repository. |
 
 ## Requirements
 
